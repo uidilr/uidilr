@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+ - I am interested in building systems which involves machine learing and opitmization.
+ - I'm currently learning golang.
+ - Dr. Eng.
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uidilr&layout=compact&theme=solarized-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uidilr&show_icons=true&theme=solarized-dark)
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=uidilr&theme=xcode)
+
 <!--
 **uidilr/uidilr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
