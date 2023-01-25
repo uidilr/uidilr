@@ -4,7 +4,9 @@
  - I'm currently learning golang.
  - Dr. Eng.
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=uidilr&theme=xcode)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uidilr)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--
 **uidilr/uidilr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
