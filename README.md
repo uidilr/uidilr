@@ -1,7 +1,6 @@
 ### Hi there 👋
 
  - I am interested in building systems which involves machine learing and opitmization.
- - I'm currently learning golang.
  - Dr. Eng.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=uidilr)](https://github.com/ryo-ma/github-profile-trophy)
